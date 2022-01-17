@@ -1,0 +1,39 @@
+body{
+    background-color: cadetblue;
+}
+
+p::first-letter{
+    font-size: 1.5em;
+}
+.header{
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.title {
+    color: brown;
+    font-family: math;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: x-large;
+    
+}
+
+strong{
+color: rebeccapurple;
+}
+
+li a{
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
+
+li dl dt{
+    color: darkgreen;
+    font-family: cursive;
+}

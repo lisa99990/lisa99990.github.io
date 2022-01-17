@@ -1,0 +1,8 @@
+body{
+    background-image: url("newPic1.jpg");
+    background-color: #cccccc; 
+}
+#picDiv{
+    background-repeat: no-repeat;
+    padding: 42px 0px 0px 600px;
+}
